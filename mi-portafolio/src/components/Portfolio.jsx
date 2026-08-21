@@ -66,7 +66,7 @@ export default function Portfolio() {
             Projects <ArrowRight size={14} />
           </a>
           <a
-            href="[LINK_CV.pdf]"
+            href="../../public/Resume_Kevin_Morera_2026.pdf"
             className="font-mono-custom rounded-sm border border-stone-900 px-6 py-3 text-sm transition-colors hover:bg-stone-900 hover:text-stone-50"
           >
             Download CV
