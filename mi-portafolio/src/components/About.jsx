@@ -14,7 +14,7 @@ export default function About(){
          <section className="border-t border-stone-200 px-8 py-24">
         <div className="mx-auto max-w-4xl">
           <div className="mb-12 flex items-baseline justify-between">
-            <h2 className="font-display text-2xl font-semibold">Sobre mí</h2>
+            <h2 className="font-display text-2xl font-semibold">About Me</h2>
             <span className="font-mono-custom text-sm text-stone-500">01</span>
           </div>
 
